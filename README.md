@@ -13,6 +13,8 @@ This software needs a Python environment and a Graphlab Create (Turi) library to
 
 ## Other files:
 The database and model needed in the program is saved in binary format, and is stored on Google Drive, since file larger than 100 MB is not allowed to be pushed on GitHub.
+
 Both of them are presented as zip files. Please unzip them before excution. They can be downloaded at:
-Database: https://drive.google.com/file/d/0B0u0jsE9OBwcU3R2ZTgzRTc1R3M/view?usp=sharing
-Model: https://drive.google.com/file/d/0B0u0jsE9OBwcRDNDYnNUYXBiZkE/view?usp=sharing
+
+* Database: https://drive.google.com/file/d/0B0u0jsE9OBwcU3R2ZTgzRTc1R3M/view?usp=sharing
+* Model: https://drive.google.com/file/d/0B0u0jsE9OBwcRDNDYnNUYXBiZkE/view?usp=sharing
